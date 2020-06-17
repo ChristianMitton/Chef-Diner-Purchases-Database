@@ -1,6 +1,5 @@
 /* Queries about diners
 ** Requires diners dataset
-** Rutgers University - CS336 - Daniel Balouek-Thomert - 2019
 */
 
 USE HW_diners;
