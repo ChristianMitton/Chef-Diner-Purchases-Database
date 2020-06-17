@@ -1,5 +1,4 @@
 /* Dataset about diners
-** Rutgers University - CS336 - Daniel Balouek-Thomert - 2019
 */
 
 CREATE DATABASE IF NOT EXISTS HW_diners;
